@@ -1,0 +1,3 @@
+comer|True
+lavar louça|True
+estudar|True
